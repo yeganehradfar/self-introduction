@@ -55,4 +55,15 @@
   .margin {
     margin-top: 100px;
   }
+@media (max-width:1200px) {
+  .mediaup{
+    margin-top: 76px;
+  }
   
+}  
+@media (max-width:750px) {
+  .secondpic{
+    flex-direction: column-reverse;
+  }
+  
+}
